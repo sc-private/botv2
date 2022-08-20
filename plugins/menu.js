@@ -291,7 +291,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `
 const listMessage = {
   text: tek,
-  footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
+  footer: '📮 ɴᴏᴛᴇ: ᴋᴀʟᴀᴜ ᴋᴇᴛᴇᴍᴜ ʙᴜɢ ʟᴀᴘᴏʀ ᴏᴡɴᴇʀ ʏᴀᴀ\nꜱᴇᴛɪᴀᴘ ᴄᴏᴍᴍᴀɴᴅ ʙᴏᴛ ᴍᴇᴍɪʟɪᴋɪ ʟɪᴍɪᴛ.\n🌱 ᴏᴡɴᴇʀ ᴛɪᴅᴀᴋ ᴍᴇʟᴀʏᴀɴɪ ᴊᴀꜱᴀ ʀᴜɴ ʙᴏᴛ ,ɢᴡ ᴋᴇʀᴊᴀ ɢᴀ ʙɪꜱᴀ ʟᴀʏᴀɴɪɴ + ᴍᴀᴋᴀɴ ʙᴀɴʏᴀᴋ ᴋᴏᴜᴛᴀ彡',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
   buttonText: `CLICK HERE ⎙`,
@@ -499,12 +499,12 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By FR Team',
+            footer: titlebot + '\n⚡ Yαɳɳ Bσƚ Mԃ',
             templateButtons: [
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://kannxapi.herokuapp.com/'
+                        url: 'https://chat.whatsapp.com/Eg4Rhkq0NBtBMWyhk1IOnb'
                     }
                 },
                 {
